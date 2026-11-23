@@ -1,4 +1,8 @@
-# Laboratorio III — Arquitectura de Software
+<p align="center">
+  <img src="https://pascualbravo.edu.co/wp-content/uploads/2023/06/cropped-Imagotipo-horizontal_acreditados.png" alt="Institución Universitaria Pascual Bravo" width="420">
+</p>
+
+# Cuestionar III — Arquitectura de Software
 
 **Curso:** Arquitectura de Software · 2026-II  
 **Institución:** Institución Universitaria Pascual Bravo  

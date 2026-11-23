@@ -1,6 +1,6 @@
 # Definiciones, usos y comparación
 
-Material de apoyo para elaborar los diagramas del laboratorio.
+Material de apoyo para elaborar los diagramas de la actividad.
 
 ---
 
@@ -97,7 +97,7 @@ Una **relación** conecta elementos y dice *cómo* se vinculan:
 | Despliegue | ¿Dónde corre cada cosa? |
 | Clases | ¿Cuál es el modelo de dominio / estructura estática? |
 
-> En este laboratorio no repasar los símbolos UML (asumir conocidos).
+> En esta actividad no repasar los símbolos UML (asumir conocidos).
 
 ---
 
