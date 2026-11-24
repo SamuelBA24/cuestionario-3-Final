@@ -187,3 +187,13 @@ ArchiMate → “¿Cómo encaja ese software en la arquitectura de la empresa?�
 ```
 
 No se sustituyen: cada una responde una pregunta distinta.
+
+
+### 1. BPMN → “¿Cómo fluye el trabajo del negocio?”
+Se enfoca en el paso a paso de las tareas diarias de la empresa. Muestra quién hace cada actividad, en qué orden ocurren las cosas, qué decisiones se toman en el camino y cómo se pasa el trabajo de un área o persona a otra desde que empieza hasta que termina un proceso.
+
+### 2. UML → “¿Cómo se diseña e implementa el software que lo soporta?”
+Se centra en la parte técnica de construir la aplicación. Sirve como los planos para que los programadores sepan cómo organizar el código, qué módulos o pantallas crear, qué datos se guardan y cómo se comunican los componentes del sistema entre sí para que todo funcione.
+
+### 3. ArchiMate → “¿Cómo encaja ese software en la arquitectura de la empresa?”
+Ofrece una vista panorámica de toda la organización. Conecta tres mundos en un mismo mapa: lo que el negocio necesita hacer (procesos y áreas), los programas que usa para lograrlo (aplicaciones) y los equipos o servidores donde corre todo (infraestructura), permitiendo ver cómo un cambio en un lado afecta a los demás.
