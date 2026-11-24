@@ -4,7 +4,8 @@ Escribir una conclusión a partir de los diagramas elaborados (BPMN, UML y Archi
 
 > Penalizar si se detecta exceso de uso de IA.
 
-Conclusión
+Conclusión:
+
 Modelamos InvestigaPB con tres notaciones y vimos que ninguna alcanza sola. Juntas sí cubren todo: desde el trámite administrativo hasta la infraestructura de la universidad.
 
 BPMN nos sirvió para dibujar el flujo real entre el Investigador, el Director de Grupo y el Comité de Investigación. Con las compuertas exclusivas (XOR) dejamos clara una regla: ninguna propuesta llega al comité sin el aval del director. También se ve qué pasa cuando una propuesta se devuelve.
